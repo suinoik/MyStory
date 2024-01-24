@@ -13,8 +13,6 @@ Time spent: **6** hours spent in total
 The following **required** functionality is completed:
 
 - [x] Users are able to see a customized app icon and launch screen
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 - [x] Users are able to see at least 3 context items
 - [x] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
  
@@ -24,13 +22,12 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 <div>
-    <a href="https://www.loom.com/share/d1511444401b41a6b92d6351443937f4">
+    <a href="https://www.loom.com/share/651bd4dfb131477db4b4a644cb2a215d">
     </a>
-    <a href="https://www.loom.com/share/d1511444401b41a6b92d6351443937f4">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d1511444401b41a6b92d6351443937f4-with-play.gif">
+    <a href="https://www.loom.com/share/651bd4dfb131477db4b4a644cb2a215d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/651bd4dfb131477db4b4a644cb2a215d-with-play.gif">
     </a>
-  </div>.
-
+  </div>
 ## License
 
     Copyright [2024] [Onwuosiuno Ikhioda]
