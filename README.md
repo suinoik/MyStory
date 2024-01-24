@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 - [x] Improve and customize the user interface through styling and coloring
 
-
+## Video Walkthrough
+https://www.loom.com/share/d1511444401b41a6b92d6351443937f4?sid=e722850a-1036-4439-b6df-02d237fc0f95
 .
 
 ## License
